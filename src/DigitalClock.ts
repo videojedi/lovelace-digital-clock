@@ -151,6 +151,7 @@ export class DigitalClock extends LitElement {
             text-align: center;
             font-weight: bold;
             padding: 8px 0;
+            border: 0px;
           }
 
           ha-card > span {
